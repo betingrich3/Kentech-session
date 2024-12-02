@@ -57,39 +57,30 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-*KENTECH MD PAIRING CODE CONNECTED*
+*MR HACKER XMD PAIRING CODE CONNECTED*
 
-> You have completed the first step of Deploying *KENTECH_MD*
+> You have completed the first step of Deploying *Mr Hacker Xmd*
 > Copy the above session Id and deploy your bot.
-> ASK DEVELOPER KENTECH FOR BOT DEPLOYMENT ✅ 
 > Meanwhile you must follow the 4 steps. 
 
 > 1st STEP
 
 > 1st STEP
 *TAP THE LINK BELOW AND FOLLOW THE CHANNEL* 
-𓄂 *_https://whatsapp.com/channel/0029VaX6kguGk1Fr135z610I_*
+𓄂 *_https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x_*
 
 > 2nd STEP
 *YOU MUST JOIN OUR GROUP FOR UPDATES ON THIS BOT*
-𓄂 *_https://chat.whatsapp.com/LcMZEQJA1ps7w0oXP3NzHt_*
+𓄂 *_https://whatsapp.com/channel/0029VarpqL7JuyAATZw4Kf3R_*
 
-> 3rd STEP
-*FORK AND STAR 🌟 THE REPO FOR COURAGE*
-𓄂 *_https://github.com/Investor45/kentech_md_*
+*DEVELOPER1: Marisel*
+𓄂 *_https://wa.me/254740007567_*
 
-> 4th STEP 
-*VISIT FOR TUTORIALS IF YOU DON'T KNOW HOW TO DEPLOY*
-𓄂 *_https://www.youtube.com/@freeonlinetvT1_*
+*DEVELOPER2:Mr Hacker*
+𓄂 *_https://wa.me/27658787051*
+> Dm ME ☝️ FOR WHATSAPP BOT DEPLOYMENT 
 
-*DEVELOPER1: KEN TECH*
-𓄂 *_https://wa.me/237670217260_*
-
-*DEVELOPER2:FREDIE_TECH*
-𓄂 *_https://wa.me/255752593977*
-> Dm ME ☝️ FOR WHATSAPP BOT DEPLOYMENT 🔥 🔥 
-
-> ✅✅ 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 BY KENTECH ✅✅`
+> Marisel Made this`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
